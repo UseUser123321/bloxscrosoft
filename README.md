@@ -1,4 +1,4 @@
-# <img src="[https://github.com/PacfcpOFC/bloxscrosoft/raw/main/Images/Bloxcrosoft.png](https://raw.githubusercontent.com/PacfcpOFC/bloxscrosoft/main/Images/Bloxscrosoft.png)" width="48"/> Bloxcrosoft
+# <img src="https://github.com/PacfcpOFC/bloxscrosoft/raw/main/Images/Bloxcrosoft.png" width="48"/> Bloxcrosoft
 
 [![License](https://img.shields.io/github/license/pizzaboxer/bloxstrap)](https://github.com/pizzaboxer/bloxstrap/blob/main/LICENSE)
 
