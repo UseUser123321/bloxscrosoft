@@ -1,11 +1,10 @@
-# <img src="https://github.com/PacfcpOFC/bloxscrosoft/raw/main/Images/Bloxcrosoft.png" width="48"/> Bloxcrosoft
+# <img src="[https://github.com/PacfcpOFC/bloxscrosoft/raw/main/Images/Bloxcrosoft.png](https://raw.githubusercontent.com/PacfcpOFC/bloxscrosoft/main/Images/Bloxscrosoft.png)" width="48"/> Bloxcrosoft
+
 [![License](https://img.shields.io/github/license/pizzaboxer/bloxstrap)](https://github.com/pizzaboxer/bloxstrap/blob/main/LICENSE)
 
 Modified Bloxstrap for UWP roblox.
 
 [More complete description](https://github.com/pizzabloxer/bloxstrap)
- 
-Bloxstrap is only supported for PCs running Windows.
 
 You need [.NET 6](https://aka.ms/dotnet-core-applaunch?missing_runtime=true&arch=x64&rid=win11-x64&apphost_version=6.0.16&gui=true).
 
