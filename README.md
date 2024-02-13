@@ -24,7 +24,7 @@ All the available features are browsable through the Bloxcrosoft menu.
 
 ## Special thanks
 * [@MaximumADHD](https://github.com/MaximumADHD) - Initially inspiring the idea for Bloxstrap with [Roblox Studio Mod Manager](https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager).
-* [Multako](https://www.roblox.com/users/2485612194/profile) - Designing the Bloxstrap logo.
+* [Multako](https://www.roblox.com/users/2485612194/profile) - Designing the original Bloxstrap logo.
 * [@1011025m](https://github.com/1011025m) - Providing a method for disabling the Roblox desktop app.
 * taskmanager ([@Mantaraix](https://github.com/Mantaraix)) - Helping with designing the new menu look and layout.
 * [@Extravi](https://github.com/Extravi) - Allowing their presets to be bundled with Bloxstrap, and helping with improving UX.
