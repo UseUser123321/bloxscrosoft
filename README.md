@@ -9,7 +9,10 @@ Modified Bloxstrap for UWP roblox.
 You need [.NET 6](https://aka.ms/dotnet-core-applaunch?missing_runtime=true&arch=x64&rid=win11-x64&apphost_version=6.0.16&gui=true).
 
 Once installed, Bloxcrosoft is added to your Start Menu, where you can access the menu and reconfigure your preferences if needed.
- 
+
+## When will this be ready?
+Soon, when the repo is indexed i will start modifying.
+
 ## Features
 
 * Persistent file modifications, includes re-adding the old death sound!
