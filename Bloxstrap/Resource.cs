@@ -1,6 +1,6 @@
 ﻿using System.Reflection;
 
-namespace Bloxcrosoft
+namespace Bloxstrap
 {
     static class Resource
     {
