@@ -11,7 +11,8 @@ You need [.NET 6](https://aka.ms/dotnet-core-applaunch?missing_runtime=true&arch
 Once installed, Bloxcrosoft is added to your Start Menu, where you can access the menu and reconfigure your preferences if needed.
 
 ## When will this be ready?
-Soon, when the repo is indexed i will start modifying.
+~~Soon, when the repo is indexed i will start modifying.~~
+Very soon, it is in active development.
 
 ## Features
 
